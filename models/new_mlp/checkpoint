@@ -1,0 +1,6 @@
+model_checkpoint_path: "new_mlp25000.ckpt"
+all_model_checkpoint_paths: "new_mlp5000.ckpt"
+all_model_checkpoint_paths: "new_mlp10000.ckpt"
+all_model_checkpoint_paths: "new_mlp15000.ckpt"
+all_model_checkpoint_paths: "new_mlp20000.ckpt"
+all_model_checkpoint_paths: "new_mlp25000.ckpt"

@@ -1,0 +1,4 @@
+model_checkpoint_path: "mlp30000.ckpt"
+all_model_checkpoint_paths: "mlp10000.ckpt"
+all_model_checkpoint_paths: "mlp20000.ckpt"
+all_model_checkpoint_paths: "mlp30000.ckpt"

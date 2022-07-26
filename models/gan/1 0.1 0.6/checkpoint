@@ -1,0 +1,6 @@
+model_checkpoint_path: "gan15000.ckpt"
+all_model_checkpoint_paths: "gan11000.ckpt"
+all_model_checkpoint_paths: "gan12000.ckpt"
+all_model_checkpoint_paths: "gan13000.ckpt"
+all_model_checkpoint_paths: "gan14000.ckpt"
+all_model_checkpoint_paths: "gan15000.ckpt"
